@@ -1,0 +1,77 @@
+.headerLine{
+    text-align:center;
+    margin-top:60px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.range{
+    text-align:right;
+    margin-right: 90px;
+    margin-top:50px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.again{
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top : -20px;
+    margin-left:50px;
+    font-family:'Courier New', Courier, monospace;
+    background-color:black;
+}
+
+.displayNumbers{
+    color: white;
+    background-color:black;
+    font-size: 50px;
+    text-align: center;
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom:10px;
+    margin-left: 45%;
+ margin-right: 45%;
+ font-family:'Courier New', Courier, monospace;
+    
+}
+
+.guess{
+    color: white;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom:10px; 
+    margin-left: 20px; 
+    font-family:'Courier New', Courier, monospace;
+}
+
+.check{
+    background-color:black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top : -20px;
+    margin-left:50px;
+    font-family:'Courier New', Courier, monospace;
+    
+}
+
+.left{
+    margin-top: 2%;
+    text-align: left;
+}
+
+.right{
+    color: white;
+    background-color:black;
+    padding-right:15%;
+    padding-left: 3%;
+    margin-right:10%;
+    margin-left:80%;
+    margin-bottom: 15%;
+    text-align: right;
+    border: 1px solid black;
+}
